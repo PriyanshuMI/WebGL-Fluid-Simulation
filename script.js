@@ -53,8 +53,8 @@ let config = {
     SUNRAYS: true,
     SUNRAYS_RESOLUTION: 196,
     SUNRAYS_WEIGHT: 1.0,
-    SOUND_SENSITIVITY: 0.25,
-    FREQ_RANGE: 8,
+    SOUND_SENSITIVITY: 0.12,
+    FREQ_RANGE: 36,
 }
 
 var timer = setInterval(randomSplat, 3500);
